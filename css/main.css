@@ -32,3 +32,10 @@ html {
   top: 6em;
   z-index: 1;
 }
+
+.polaroid:nth-child(2) {
+  transform: rotate(4deg);
+  left: 18em;
+  top: 9em;
+  z-index: 3;
+}
