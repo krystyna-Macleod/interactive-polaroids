@@ -25,3 +25,10 @@ html {
   color: #fff;
   text-shadow: 1px 1px 3px #000;
 }
+
+.polaroid:first-child {
+  transform: rotate(-14deg);
+  left: 12em;
+  top: 6em;
+  z-index: 1;
+}
